@@ -1,0 +1,11 @@
+CS 101 - Week 3 Notes
+
+Today we covered functions in Python. A function is a reusable block of code
+that takes inputs (called parameters) and can return an output.
+
+We also talked about loops. A for loop repeats an action a fixed number of
+times, while a while loop repeats until a condition becomes false.
+
+Dictionaries store key-value pairs and are very useful for looking things up
+quickly, similar to a real dictionary where you look up a word to find its
+definition.
