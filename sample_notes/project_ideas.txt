@@ -1,0 +1,10 @@
+Project Ideas
+
+1. Build a personal search engine that indexes my class notes using an
+   inverted index data structure.
+
+2. Extend the stock market simulator to support comparing two tickers
+   side by side.
+
+3. Learn SQLite so I can save data between sessions instead of losing it
+   every time the program closes.
